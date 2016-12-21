@@ -5,9 +5,9 @@ body{
 }
 
 #menu{
-	width: 180px;
     margin: 0;
     padding: 0;
+    display: inline-block;
 }
 #menu a{
 	display: block;
@@ -22,10 +22,20 @@ a:hover{
 }
 li{
 	list-style: none;
+	position: relative;
+
 }
 nav ul ul li{
 	margin: 0;
     padding: 0;
-    width: 180px;
     background: #fcf8e3;
+}
+nav ul ul{
+	position: absolute;
+	top: 0;
+	left: 100%;
+	padding: 0;
+}
+nav ul{
+	padding: 0;
 }
