@@ -35,7 +35,11 @@ nav ul ul{
 	top: 0;
 	left: 100%;
 	padding: 0;
+	display: none;
 }
 nav ul{
 	padding: 0;
+}
+nav ul li:hover ul{
+	display:block;
 }
