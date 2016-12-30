@@ -2,9 +2,13 @@
 ## Multi-level menu
 *JS practise:*
 * functions
-* events
+* arrays
+* loop
 * DOM manipulation
 
-[Demo](http://s.codepen.io/JennyGeryak/debug/yVoMpv)
+*CSS practise:*
+* animation
 
-Preview: ![Alt Text] (https://github.com/JennyGeryak/Check_list/blob/master/screen.png)
+[Demo](http://s.codepen.io/JennyGeryak/debug/mONgVN)
+
+Preview: ![Alt Text] (https://github.com/JennyGeryak/Menu/blob/master/screen.png)
